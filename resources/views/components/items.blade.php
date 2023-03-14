@@ -6,9 +6,9 @@
           <a class="nav-link" href="#">Features</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Bookings</a>
+          <a class="nav-link" href="#">Bookings</a> 
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Log Out</a>
+          <a class="nav-link" href={{"/logout"}}>Log Out</a>
         </li>
       </ul>

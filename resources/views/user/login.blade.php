@@ -33,5 +33,6 @@
   <button type="submit" 
   class="btn btn-primary">Submit</button>
 </form>
+<h6><a href={{"/register"}}>New User? Sign Up Here!</a></h6>
 @include('partials.footer')
 </div>
